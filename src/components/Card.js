@@ -11,6 +11,7 @@ export function PostCard(props) {
         <p>
           {props.body}
         </p>
+        ertert
       </div>
     </div>
   );
